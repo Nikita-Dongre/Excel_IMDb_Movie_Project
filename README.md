@@ -16,8 +16,9 @@ A complete Excel-based analytics project built using IMDB movie data. This proje
 ---
 
 ## Project Structure
-``
- 📦 Excel IMDB Movie Project
+
+```
+📦 Excel IMDB Movie Project
 │
 ├── 1_Project_Summary.xlsx
 ├── 2_Interactive_dashboard.xlsx
@@ -29,7 +30,8 @@ A complete Excel-based analytics project built using IMDB movie data. This proje
 ├── 8_Raw_Data.xlsx
 │
 └── README.md
-
+```
+ 
 ---
 
 ## Key Insights (Examples)
