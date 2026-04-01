@@ -21,7 +21,7 @@ From raw data to an interactive dashboard, every step of the analysis pipeline i
 
 ---
 
-## :control_knobs: Interactive Dashboard
+## :control_knobs: Dashboard
 
 <p align="center">
   <img src="outputs/dashboard.png" alt="IMDb Dashboard" width="100%"/>
